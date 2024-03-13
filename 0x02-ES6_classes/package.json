@@ -1,0 +1,11 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "0x02. ES6 classes OOP JavaScript ES6  By: Johann Kerbrat, Engineering Manager at Uber Works  Weight: 1  Project will start Mar 7, 2024 4:00 AM, must end by Mar 8, 2024 4:00 AM  Checker was released at Mar 7, 2024 10:00 AM  An auto review will be launched at the deadline",
+  "main": "0-classroom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
